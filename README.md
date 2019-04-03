@@ -2,6 +2,10 @@
 
 ## 1. Vectors in Linear Algebra
 
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+| ![](http://progressed.io/bar/?title=37) <br> 2019-04-03 |  |  |  |  |
+
 ## 2. Linear Transformations and Matrices
 
 ## 3. Matrix-Vector Operations
