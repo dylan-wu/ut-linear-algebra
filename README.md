@@ -8,28 +8,84 @@
 
 ## 2. Linear Transformations and Matrices
 
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
 ## 3. Matrix-Vector Operations
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
 ## 4. Matrix-Vector to Matrix-Matrix Multiplication
 
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
 ## Exam 1
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
 ## 5. Matrix - Matrix Multiplication
 
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
 ## 6. Gaussian Elimination
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
 ## 7. More Gaussian Elimination and Matrix Inversion
 
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
 ## 8. More on Matrix Inversion
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
 ## Exam 2
 
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
 ## 9. Week Vector Spaces
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
 ## 10. Vector Spaces, Orthogonality, and Linear Least-Squares
 
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
 ## 11. Orthogonal Projection, Low Rank Approximation, and Orthogonal Bases
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
 
 ## 12. Eigenvalues and Eigenvectors
 
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
 ## Final
+
+| 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|
+|  |  |  |  |  |
