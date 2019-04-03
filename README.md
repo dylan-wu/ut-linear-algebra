@@ -4,7 +4,7 @@
 
 | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|
-| ![](http://progressed.io/bar/?title=37) <br> 2019-04-03 |  |  |  |  |
+| ![](http://progressed.io/bar/100?title=37/37) <br> 2019-04-03 |  |  |  |  |
 
 ## 2. Linear Transformations and Matrices
 
@@ -18,7 +18,7 @@
 
 ## 6. Gaussian Elimination
 
-## 7. More Gaussian Elimanation and Matrix Inversion
+## 7. More Gaussian Elimination and Matrix Inversion
 
 ## 8. More on Matrix Inversion
 
