@@ -7,15 +7,17 @@
 | 2. Linear Transformations and Matrices |  |  |  |  |
 | 3. Matrix-Vector Operations |  |  |  |  |
 | 4. Matrix-Vector to Matrix-Matrix Multiplication |  |  |  |  |
-| Exam 1 |  |  |  |  |
 | 5. Matrix - Matrix Multiplication |  |  |  |  |
 | 6. Gaussian Elimination |  |  |  |  |
 | 7. More Gaussian Elimination and Matrix Inversion |  |  |  |  |
 | 8. More on Matrix Inversion |  |  |  |  |
-| Exam 2 |  |  |  |  |
 | 9. Week Vector Spaces |  |  |  |  |
 | 10. Vector Spaces, Orthogonality, and Linear Least-Squares |  |  |  |  |
 | 11. Orthogonal Projection, Low Rank Approximation, and Orthogonal Bases |  |  |  |  |
 | 12. Eigenvalues and Eigenvectors |  |  |  |  |
-| Final |  |  |  |  |
 
+| Exams | 1 | 2 | 3 | 4 | 5 |
+|-------|---|---|---|---|---|
+| Exam 1 |  |  |  |  |
+| Exam 2 |  |  |  |  |
+| Final |  |  |  |  |
