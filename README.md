@@ -1,5 +1,6 @@
 [EdX](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+1T2019/course/#block-v1:UTAustinX+UT.5.05x+1T2019+type@chapter+block@7a78687246af4d3788684962136f949b) | [Notes](https://docs.google.com/document/d/1T2pxTHncLFVaaDxPHjy6HF8nyNME-uGiMl_YXTWge2U/edit?usp=sharing)
 
+Course End: May 31, 2019
 
 | Chapter | 1 | 2 | 3 | 4 | 5 |
 |---------|---|---|---|---|---|
@@ -21,3 +22,18 @@
 | Exam 1 |  |  |  |  |
 | Exam 2 |  |  |  |  |
 | Final |  |  |  |  |
+
+| Homework | Done |
+|----------|------|
+| HW 01 | 2019-04-04 |
+| HW 02 | 2019-04-04 |
+| HW 03 |  |
+| HW 04 |  |
+| HW 05 |  |
+| HW 06 |  |
+| HW 07 |  |
+| HW 08 |  |
+| HW 09 |  |
+| HW 10 |  |
+| HW 11 |  |
+| HW 12 |  |
