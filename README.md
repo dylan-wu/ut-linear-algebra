@@ -4,8 +4,8 @@ Course End: May 31, 2019
 
 | Chapter | 1 | 2 | 3 | 4 | 5 |
 |---------|---|---|---|---|---|
-| 1. Vectors in Linear Algebra | ![](http://progressed.io/bar/100?title=37/37) <br> 2019-04-04 |  |  |  |
-| 2. Linear Transformations and Matrices |  |  |  |  |
+| 1. Vectors in Linear Algebra | ![](http://progressed.io/bar/100?title=37/37) <br> 2019-04-03 |  |  |  |
+| 2. Linear Transformations and Matrices | ![](http://progressed.io/bar/100?title=35/35) <br> 2019-04-04 |  |  |  |
 | 3. Matrix-Vector Operations |  |  |  |  |
 | 4. Matrix-Vector to Matrix-Matrix Multiplication |  |  |  |  |
 | 5. Matrix - Matrix Multiplication |  |  |  |  |
@@ -27,7 +27,7 @@ Course End: May 31, 2019
 |----------|------|
 | HW 01 | 2019-04-04 |
 | HW 02 | 2019-04-04 |
-| HW 03 |  |
+| HW 03 | 2019-04-04 |
 | HW 04 |  |
 | HW 05 |  |
 | HW 06 |  |
