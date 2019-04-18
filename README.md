@@ -8,10 +8,10 @@ Course End: May 31, 2019
 | 2. Linear Transformations and Matrices | ![](http://progressed.io/bar/100?title=35/35) <br> 2019-04-04 |  |  |  |
 | 3. Matrix-Vector Operations | ![](http://progressed.io/bar/100?title=42/42) <br> 2019-04-06 |  |  |  |
 | 4. Matrix-Vector to Matrix-Matrix Multiplication | ![](http://progressed.io/bar/100?title=31/31) <br> 2019-04-06 |  |  |  |
-| 5. Matrix - Matrix Multiplication |  |  |  |  |
-| 6. Gaussian Elimination |  |  |  |  |
-| 7. More Gaussian Elimination and Matrix Inversion |  |  |  |  |
-| 8. More on Matrix Inversion |  |  |  |  |
+| 5. Matrix - Matrix Multiplication | ![](http://progressed.io/bar/100) <br> 2019-04-18 |  |  |  |
+| 6. Gaussian Elimination | ![](http://progressed.io/bar/100) <br> 2019-04-18 |  |  |  |
+| 7. More Gaussian Elimination and Matrix Inversion | ![](http://progressed.io/bar/100) <br> 2019-04-18 |  |  |  |
+| 8. More on Matrix Inversion | ![](http://progressed.io/bar/100) <br> 2019-04-18 |  |  |  |
 | 9. Week Vector Spaces |  |  |  |  |
 | 10. Vector Spaces, Orthogonality, and Linear Least-Squares |  |  |  |  |
 | 11. Orthogonal Projection, Low Rank Approximation, and Orthogonal Bases |  |  |  |  |
